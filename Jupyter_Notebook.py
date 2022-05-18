@@ -1,10 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# <center>
-#     <img src="https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/Logos/organization_logo/organization_logo.png" width="300" alt="cognitiveclass.ai logo"  />
-# </center>
-# 
 
 # # My Jupyter Notebook on IBM Watson Studio
 
